@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720180889 source:c:\users\hp user\desktop\slides\object-oriented programming\c++\simple_calculator\calculator.cpp
+	"Calculator.h"
+
+1720180889 c:\users\hp user\desktop\slides\object-oriented programming\c++\simple_calculator\calculator.h
+	<iostream>
+
+1720129018 source:c:\users\hp user\desktop\slides\object-oriented programming\c++\simple_calculator\main.cpp
+	<iostream>
+	"Calculator.h"
+
